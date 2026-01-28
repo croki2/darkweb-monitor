@@ -31,5 +31,5 @@ This project is **safe, fully laptop-friendly**, and designed for cybersecurity 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/darkweb-monitor.git
+git clone https://github.com/croki2/darkweb-monitor.git
 cd darkweb-monitor
